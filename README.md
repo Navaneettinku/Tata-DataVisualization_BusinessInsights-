@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate for internships and entry level positions.
 - 📫 How to reach me..
 -  www.linkedin.com/in/navaneetkandaloju
--  As an avid jobseeker, I've been immersing myself in various data analytics projects to enhance my skills. One intriguing project I've taken on is the Tata Motors data visualization on Forage.com
+-  As an avid jobseeker, I've been immersing myself in various data science projects to enhance my skills. One intriguing project I've taken on is the Tata Motors data visualization on Forage.com
 
 
 
